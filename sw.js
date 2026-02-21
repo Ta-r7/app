@@ -5,7 +5,7 @@
  * Unauthorized copying, modification, distribution, or use of this
  * software is strictly prohibited. See index.html for full notice.
  */
-var CACHE_NAME = 'data-analyzer-v1';
+var CACHE_NAME = 'data-analyzer-v2';
 var ASSETS = [
   './',
   './index.html',
